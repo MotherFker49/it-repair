@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls \"C:\\\\Users\\\\ACER\\\\.claude\\\\projects\\\\d----------------------it-it-repair\\\\memory\" 2>/dev/null || echo \"no files yet\")",
+      "Read(//c/Users/ACER/.claude/projects/d----------------------it-it-repair/**)",
+      "Bash(php artisan *)"
+    ]
+  }
+}
